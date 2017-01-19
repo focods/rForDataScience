@@ -5,7 +5,4 @@
 library(tidyverse)
 
 # Read CSV in as dataframe
-
-titanicTrain <- read_csv("data/titanic.csv")
-
-
+titanicTrain <- read_csv("data/train.csv")
